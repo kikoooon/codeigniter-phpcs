@@ -1,2 +1,1 @@
-# codeigniter-phpcs
-CodeIgniter-for-PHP_CodeSniffer
+# CodeIgniter-for-PHP_CodeSniffer

@@ -1,0 +1,12 @@
+{
+    "name": "kikoooon/codeigniter-phpcs",
+    "description": "Rules for codeigniter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kikoooon",
+            "email": "fumycow@gmail.com"
+        }
+    ],
+    "require": {}
+}
